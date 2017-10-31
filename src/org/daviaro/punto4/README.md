@@ -51,6 +51,7 @@ y = (1 + 2 * 2) % 3
 
 ■ The default block is called and the value of x is set to:
 x = 2 - 1 = 1
+
 ■ The loop continues as the count loop expression evaluates to 2 < 3 , which is true ,
 with y taking a new value of 3 . The value of y is set to:
 y = (1 + 2 * 3) % 3
@@ -60,6 +61,7 @@ y = (1 + 2 * 3) % 3
 
 ■ The second case block is called and the value of x is then set to:
 x = 1 + 5 = 6
+
 ■ The loop ends as the count loop expression evaluates to 3 < 3 , with y also taking a
 new value of 4 . The most recent value of x , 6 , is output, so the answer is option C.
 For more information, see Chapter 2. 
