@@ -20,6 +20,7 @@ package org.daviaro.punto1;
  */
 
 
+
 public class _C {
 
     private static int $;

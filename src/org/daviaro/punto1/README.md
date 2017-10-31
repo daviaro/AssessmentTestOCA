@@ -20,6 +20,7 @@ G. nullnull
 Para este ejercicio tenemos que revisar cual es el resultado. Se presenta
 un error en la linea 6 porque la variable local de  tipo String a_b no esta inicializada.
 
+
 E. La opción E es correcta porque las variables locales requieren asignación antes de hacer referencia a ellas. 
 La opción D es incorrecta porque las variables de clase e instancia tienen valores predeterminados y permiten la referencia. a_b se predetermina a un valor nulo. 
 Las opciones A, B y C son incorrectas porque los identificadores pueden comenzar con una letra, guión bajo o signo de dólar. 
